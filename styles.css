@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e3f2fd;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #0d47a1;
+}
+
+h3 {
+    color: #1565c0;
+}
+
+p, ul {
+    line-height: 1.6;
+    color: #424242;
+}
+
+a {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.contact-info a {
+    display: block;
+    margin-top: 5px;
+    color: #2e7d32;
+    font-weight: bold;
+}
